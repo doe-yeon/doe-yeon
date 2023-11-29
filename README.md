@@ -1,8 +1,9 @@
 # DOEYEON 🧩
 ### Front-end developer
 
+
 ## Skills
-###### Front-end
+#### Front-end
 <p>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -11,7 +12,7 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 </p>
 
-###### Others
+#### Others
 <p>
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
@@ -19,7 +20,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 </p>
 
-###### Contact
+#### Contact
 
 
 <!--
