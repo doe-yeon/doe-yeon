@@ -1,4 +1,3 @@
-<br/>
 # 👩‍💻 DOEYEON | Web Developer & Automation Explorer 🧩
 **웹 개발**과 **업무 자동화(SDET, RPA)** 분야로 성장하고 있는 개발자 DOEYEON입니다.  
 현재는 **Spring**, **전자정부프레임워크(eGovFrame)** 중심의 백엔드 실습과  
