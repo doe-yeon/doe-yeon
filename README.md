@@ -1,5 +1,4 @@
-# 👩‍💻 DOEYEON | Front-end Developer 🧩
-Front-end developer
+# 👩‍💻 DOEYEON | Web Developer & Automation Explorer 🧩
 안녕하세요! 사용자 중심의 UI와 클린한 코드 작성을 지향하는 프론트엔드 개발자입니다.  
 현재는 **전자정부프레임워크(eGovFrame)** 와 **Spring**을 공부하며,  
 **SDET** 분야(테스트 자동화, 품질 보증)에도 깊은 관심을 가지고 성장 중입니다. 🌱
