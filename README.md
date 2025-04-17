@@ -43,5 +43,5 @@
 #### Contact
 - [Email](egni1227@naver.com)
 - [GitHub](https://github.com/doe-yeon)
-- [Blog](https://blog.naver.com/dxeyexn} / [Portfolio](https://shorturl.at/urGJW)
+- [Blog](https://blog.naver.com/dxeyexn) / [Portfolio](https://shorturl.at/urGJW)
 
