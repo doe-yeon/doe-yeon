@@ -48,4 +48,4 @@
 [![Email](https://img.shields.io/badge/Email-egni1227%40naver.com-blue)](mailto:egni1227@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-doe--yeon-darkgray)](https://github.com/doe-yeon)
 [![Blog](https://img.shields.io/badge/Blog-dxeyexn-yellow)](https://blog.naver.com/dxeyexn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shorturl.at%2FurGJW-orange)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-notion-orange)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
