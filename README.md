@@ -50,7 +50,8 @@
 [![Blog](https://img.shields.io/badge/Blog-dxeyexn-yellow)](https://blog.naver.com/dxeyexn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-notion-orange)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
 
-- [![Email](https://img.shields.io/badge/Email-egni1227%40naver.com-FFB6C1)](mailto:egni1227@naver.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-doe--yeon-FF69B4)](https://github.com/doe-yeon)
-- [![Blog](https://img.shields.io/badge/Blog-dxeyexn-FF1493)](https://blog.naver.com/dxeyexn)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-notion-FF6347)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
+
+- [![Email](https://img.shields.io/badge/Email-egni1227%40naver.com-FFB3BA)](mailto:egni1227@naver.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-doe--yeon-A9D0B6)](https://github.com/doe-yeon)
+- [![Blog](https://img.shields.io/badge/Blog-dxeyexn-FFDAB9)](https://blog.naver.com/dxeyexn)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-notion-FFEB99)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
