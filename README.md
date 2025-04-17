@@ -49,3 +49,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-doe--yeon-darkgray)](https://github.com/doe-yeon)
 [![Blog](https://img.shields.io/badge/Blog-dxeyexn-yellow)](https://blog.naver.com/dxeyexn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-notion-orange)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
+
+
+- [![Email](https://img.shields.io/badge/Email-egni1227%40naver.com-88C0D0)](mailto:egni1227@naver.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-doe--yeon-81A1B1)](https://github.com/doe-yeon)
+- [![Blog](https://img.shields.io/badge/Blog-dxeyexn-9EBC9F)](https://blog.naver.com/dxeyexn)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-notion-C9D1D3)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
