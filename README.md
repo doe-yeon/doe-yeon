@@ -1,5 +1,8 @@
-# DOEYEON 🧩
+# 👩‍💻 DOEYEON | Front-end Developer 🧩
 Front-end developer
+안녕하세요! 사용자 중심의 UI와 클린한 코드 작성을 지향하는 프론트엔드 개발자입니다.  
+현재는 **전자정부프레임워크(eGovFrame)** 와 **Spring**을 공부하며,  
+**SDET** 분야(테스트 자동화, 품질 보증)에도 깊은 관심을 가지고 성장 중입니다. 🌱
 <br/> <br/> 
 
 
@@ -16,21 +19,26 @@ Front-end developer
 
 #### Back-end
 <p>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eGovFrame-0054A6?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 </p>
 
 
 #### Database
 <p>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </p>
 
 
-#### Others
+### ⚙️ Tools & Etc.
 <p>
-    <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 </p>
 
 #### Contact
