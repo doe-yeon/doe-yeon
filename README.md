@@ -1,3 +1,4 @@
+<br/>
 # 👩‍💻 DOEYEON | Web Developer & Automation Explorer 🧩
 **웹 개발**과 **업무 자동화(SDET, RPA)** 분야로 성장하고 있는 개발자 DOEYEON입니다.  
 현재는 **Spring**, **전자정부프레임워크(eGovFrame)** 중심의 백엔드 실습과  
@@ -41,17 +42,7 @@
 </p>
 
 #### Contact
-- [Email](egni1227@naver.com)
-- [GitHub](https://github.com/doe-yeon)
-- [Blog](https://blog.naver.com/dxeyexn) / [Portfolio](https://shorturl.at/urGJW)
-
-[![Email](https://img.shields.io/badge/Email-egni1227%40naver.com-blue)](mailto:egni1227@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-doe--yeon-darkgray)](https://github.com/doe-yeon)
-[![Blog](https://img.shields.io/badge/Blog-dxeyexn-yellow)](https://blog.naver.com/dxeyexn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-notion-orange)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
-
-
-- [![Email](https://img.shields.io/badge/Email-egni1227%40naver.com-FFB3BA)](mailto:egni1227@naver.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-doe--yeon-A9D0B6)](https://github.com/doe-yeon)
-- [![Blog](https://img.shields.io/badge/Blog-dxeyexn-FFDAB9)](https://blog.naver.com/dxeyexn)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-notion-FFEB99)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
+ [![Email](https://img.shields.io/badge/Email-egni1227%40naver.com-FFB3BA)](mailto:egni1227@naver.com)
+ [![GitHub](https://img.shields.io/badge/GitHub-doe--yeon-A9D0B6)](https://github.com/doe-yeon)
+ [![Blog](https://img.shields.io/badge/Blog-dxeyexn-FFDAB9)](https://blog.naver.com/dxeyexn)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-notion-FFEB99)](https://www.notion.so/dxeyexn/_DOEYEON-a5ad188a1b86499b8eddcbe03e10eeb8?pvs=4)
